@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @MiguelPuga
-- 👀 I’m interested in Software/Game Development
-- 🌱 I’m currently learning Java, Next.js
+- 👀 I’m interested in Software/Web/Game Development
 - 💞️ I’m looking to collaborate on dev projects
 - 📫 How to reach me miguelluizpuga@gmail.com
 
